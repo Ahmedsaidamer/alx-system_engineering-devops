@@ -1,1 +1,1 @@
- i/o redirection
+i/o ridirecion

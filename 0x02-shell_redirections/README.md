@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-# i/o redirection
+ i/o redirection
